@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wiki-img{
+    width: 150px;
+    margin: 25px;
+}
+
+.inputBox{
+    width: 80vw;
+    font-size: 25px;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+.search-results{
+    margin-left: 20px;
+}
+
+.result-title {
+    font-size: 22px;
+  }
+  
+  .link-description {
+    color: #444444;
+    font-size: 15px;
+  }
+  
+  .result-url {
+    color: #006621;
+    text-decoration: none;
+  }
